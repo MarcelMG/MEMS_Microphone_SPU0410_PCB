@@ -9,7 +9,7 @@ The input port of the microphone is on the backside of the PCB.
 The design additionally includes a dual opamp that provides a buffered virtual ground (Vcc/2) as well as +20dB of flat gain. The recommended power supply range is between 1.8V and 3.6V.
 
 <p float="left">
-  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/pcb_soldered_image2.jpg" width="300" />
-  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/front_view.jpg" width="300" /> 
-  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/back_view.jpg" width="300" />
+  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/pcb_soldered_image2.jpg" width="280" />
+  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/front_view.jpg" width="280" /> 
+  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/back_view.jpg" width="280" />
 </p>
