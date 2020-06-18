@@ -13,3 +13,8 @@ The design additionally includes a dual opamp that provides a buffered virtual g
   <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/front_view.jpg" width="280" /> 
   <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/back_view.jpg" width="280" />
 </p>
+
+
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+
+<video src="https://github.com/MarcelMG/BLE_thingy/raw/master/software/BLE_Beacon_PC_application/motion_detect.mp4" width="480" height="320" controls preload></video>
