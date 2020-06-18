@@ -10,6 +10,6 @@ The design additionally includes a dual opamp that provides a buffered virtual g
 
 <p float="left">
   <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/pcb_soldered_image2.jpg" width="300" />
-  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/front_view.png" width="300" /> 
-  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/back_view.png" width="300" />
+  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/front_view.jpg" width="300" /> 
+  <img src="https://github.com/MarcelMG/MEMS_Microphone_SPU0410_PCB/raw/master/back_view.jpg" width="300" />
 </p>
